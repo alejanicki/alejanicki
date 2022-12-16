@@ -1,4 +1,4 @@
-### Hi there ! My name is Alessandro 😁
+### Hello there ! My name is Alessandro 😁
 
 - 🖥️ I'm looking for an opportunity in Backend programming development
 - 📚 I’m currently studying to be a fullstack developer 
