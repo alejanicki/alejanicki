@@ -1,7 +1,7 @@
 ### Hello there ! My name is Alessandro 😁
 
-- 🖥️ I'm looking for an opportunity in Backend programming development
-- 📚 I’m currently studying to be a fullstack developer 
+- 🖥️ I'm a fullstack developer looking for an opportunity 
+- 📚 I’m currently studying to improve my skills as a fullstack developer 
 - 🌐 Languages: Portuguese (Native) and English (Advanced)
 - 🤓 Geek Lover
 
