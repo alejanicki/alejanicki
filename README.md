@@ -1,6 +1,6 @@
 ### Hello there ! My name is Alessandro 😁
 
-- 🖥️ I'm a fullstack developer looking for an opportunity 
+- 🖥️ I'm a fullstack developer
 - 📚 I’m currently studying to improve my skills as a fullstack developer 
 - 🌐 Languages: Portuguese (Native) and English (Advanced)
 - 🤓 Check our bootcamp project - https://novi.startfuture.com.br/
